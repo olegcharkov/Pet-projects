@@ -14,7 +14,7 @@ def dos(target):
 
 
 threads = 1000
-url = "https://myrotvorets.center/"
+url = "some_site"
 
 
 try:
